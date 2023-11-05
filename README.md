@@ -4,6 +4,7 @@
 
 **Reference links:**
 https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk
+
 https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 
 **Step 1: Set up Back4App**
@@ -40,18 +41,26 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 **Step: Added Insert, Update, Delete and view the Task Details**
 1. Updated the code in the lib/main.dart file for Inserting, Updating, Deleting and viewing the Task Details in the Back4 app
 
- New Record Insertion:
+
+**New Record Insertion**
 ![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/ac07e98e-e10d-4aaa-869d-47e5f27880ca)
+
 ![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/f92314c9-970c-425d-a9f4-d76db39be5ca)
 
-View the Task Details:
+
+**View the Task Details:**
+
 ![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/ef157e9f-583a-4fd3-8a1b-5c231701877a)
 
-Update the Task Details:
+
+**Update the Task Details:**
+
 ![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/91ff8173-dc6a-4da4-9d28-8a68c57f845e)
 
-Delete the Task Details:
+
+**Delete the Task Details:**
 Deleted the Second Task Details
+
 ![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/921381f9-ab26-4805-acee-df5dd00ea94c)
 
 
