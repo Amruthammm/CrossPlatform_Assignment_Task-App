@@ -43,6 +43,7 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 
 
 **New Record Insertion**
+
 ![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/ac07e98e-e10d-4aaa-869d-47e5f27880ca)
 
 ![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/f92314c9-970c-425d-a9f4-d76db39be5ca)
