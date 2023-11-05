@@ -1,16 +1,28 @@
-# mytask
+**Assignment Flutter App with Back4App Integration**
+**Name: AMRUTHAM TEJASWINI BITS ID: 2022mt93700**
+**Reference links:**
+https://www.back4app.com/docs/flutter/parse-sdk/parse-flutter-sdk
+https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 
-A new Flutter project.
+Step 1: Set up Back4App
 
-## Getting Started
+Step 2: Pre-Reqs
 
-This project is a starting point for a Flutter application.
+Step 3: Verify Installation
 
-A few resources to get you started if this is your first Flutter project:
+Step 4: Flutter Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Step 5:Update Dependency in pubspec.yaml
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Step 6: Build Flutter TaskApp
+
+Step: Added Insert, Update, Delete and view the Task Details
+
+Step 7: Extra: Add Scrolling Features
+
+![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/0f97ef75-b50a-4641-94ed-a5b9a0abba0c)
+
+![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/12d05e1f-a986-41c5-bd3f-9775bb2974b8)
+
+
+
