@@ -11,8 +11,6 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 1. Sign up for back4App => https://parse-dashboard.back4app.com/apps/b5c26f28-663c-4b19-babb-1c387a7f45e1/browser/Task
 2. Create a new back4App and create a class named **Task** with Title(String) and Description(String)
 
-![Back4App](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/174de202-4117-45f4-be4f-f281b863db98)
-
 ![Back4App](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/84b5334d-05e5-4340-9c0f-cf6e774fe1b2)
 
 **Step 2: Pre-Reqs**
