@@ -31,10 +31,11 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 
  ![pubspec](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/75d35c5b-b2f9-4ebd-9b24-7dbc11645e10)
 
+
 **Step 6: Initialize the Parse SDK in your Flutter app**
 1. Go to lib/main.dart file and update keyApplicationId, keyClientKey, keyParseServerUrl which are copied from the Back4app ApplicationId, Client Id, ServerUrl respectively. 
-   ![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/28008e0c-1b4f-4ad3-a46a-e452f3482ea4)
- 
+
+ ![Parse_SDK](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/d4317477-baf1-476f-9df9-0ecc7eed99e6)
 
 
 **Step: Added Insert, Update, Delete and view the Task Details**
@@ -42,36 +43,30 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 
 
 **New Record Insertion**
+![New Record](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/27971d6e-2d3f-4556-9d9d-860c22dd3556)
 
-![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/ac07e98e-e10d-4aaa-869d-47e5f27880ca)
-
-![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/f92314c9-970c-425d-a9f4-d76db39be5ca)
+![New Record_Added](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/0d8c06ed-c809-4e2e-abc2-0b90b3f6aba4)
 
 
 **View the Task Details:**
 
-![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/ef157e9f-583a-4fd3-8a1b-5c231701877a)
-
+![View_the_Task_Details](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/d2ff55e3-e38c-405e-8162-963b8ae1e76f)
 
 **Update the Task Details:**
 
-![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/91ff8173-dc6a-4da4-9d28-8a68c57f845e)
+![Update_the_Task_Details](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/3b5e69bd-97b8-4015-bc80-642d9e3d603c)
 
 
 **Delete the Task Details:**
 Deleted the Second Task Details
 
-![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/921381f9-ab26-4805-acee-df5dd00ea94c)
-
-
+![Delete_the_Task_Details](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/26689eeb-6c5b-4f39-a799-87afe1a20fb7)
 
 
 **Step 7: Additional Features: Added Scrolling Feature**
 
-![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/41acf8e7-cf6e-4e09-b61b-d623986873a4)
+![Added_Scrolling_Feature1](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/aad40da7-a55d-4372-9d1d-d9384ec67b12)
 
-
-![image](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/12d05e1f-a986-41c5-bd3f-9775bb2974b8)
-
+![Added_Scrolling_Feature2](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/5efa2aa1-6693-4eb3-bb0d-7210630cec11)
 
 
