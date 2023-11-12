@@ -29,13 +29,13 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 **Step 5:Update Dependency in pubspec.yaml**
 1. Add the required dependencies to your pubspec.yaml file.
 
- ![pubspec](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/75d35c5b-b2f9-4ebd-9b24-7dbc11645e10)
+![pubspec](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/75d35c5b-b2f9-4ebd-9b24-7dbc11645e10)
 
 
 **Step 6: Initialize the Parse SDK in your Flutter app**
 1. Go to lib/main.dart file and update keyApplicationId, keyClientKey, keyParseServerUrl which are copied from the Back4app ApplicationId, Client Id, ServerUrl respectively. 
 
- ![Parse_SDK](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/d4317477-baf1-476f-9df9-0ecc7eed99e6)
+![Parse_SDK](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/d4317477-baf1-476f-9df9-0ecc7eed99e6)
 
 
 **Step: Added Insert, Update, Delete and view the Task Details**
