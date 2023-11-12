@@ -13,6 +13,8 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 
 ![Back4App](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/174de202-4117-45f4-be4f-f281b863db98)
 
+![Back4App](https://github.com/Amruthammm/CrossPlatform_Assignment_Task-App/assets/38911925/84b5334d-05e5-4340-9c0f-cf6e774fe1b2)
+
 **Step 2: Pre-Reqs**
 1. Install flutter on Windows => Download the flutter SDK => Extract the downloaded Zip file to a location on your computer and Add the flutter bin directory to your System PATH
 2. Install Andriod Studio
